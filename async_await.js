@@ -5,7 +5,7 @@ function myfam(){
 
 async function getfam(){
 	try{
-		var intro= await myfam();
+		var fam= await myfam();
 		console.log(fam);
 
 	}
