@@ -10,7 +10,7 @@ async function getfam(){
 
 	}
 	catch(e){
-		console.log("Error is :", error)
+		console.log("Error is :", e)
 
 	}
 }
